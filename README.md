@@ -5,9 +5,13 @@
 Проект. Научиться учиться: вёрстка + анимация, шрифты, фреймы 
 
 
-Используемые технологии 
+## Используемые технологии 
 
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-090909?style=for-the-badge&logo=html5&logoColor=e44d26)
+
+## Что реализованно:
+
+вёрстка + анимация, шрифты, фреймы с использованием HTML и CSS
 
 Посмотреть работу можно на `GitPage` : https://lemacoder.github.io/Start_Learning/ 
 
